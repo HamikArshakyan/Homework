@@ -1,12 +1,12 @@
 let a =+prompt()
 let b =+prompt()
-\\ Sum
+// Sum
 a+b
-\\ difference
+// difference
 a-b
-\\product
+//product
 a*b
-\\quotient
+//quotient
 a/b
-\\remainder
+//remainder
 a%b
